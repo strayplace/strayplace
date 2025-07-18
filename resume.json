@@ -1,7 +1,7 @@
 {
   "titleNameMap": {
     "educationList": "教育背景",
-    "workExpList": "工作经历",
+    "workExpList": "研究成果",
     "projectList": "项目经验",
     "skillList": "个人技能",
     "awardList": "更多信息",
@@ -14,27 +14,45 @@
   },
   "profile": {
     "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
+    "email": "dg21220060@smail.nju.edu.cn",
+    "mobile": "18801147833",
+    "github": "",
+    "zhihu": "",
     "workExpYear": ""
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2012.09.01",
+        "2015.06.30"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school": "中央民族大学附属中学",
+      "major": "",
+      "academic_degree": "高中"
+    }
+    {
+      "edu_time": [
+        "2015.09.01",
+        "2019.06.30"
+      ],
+      "school": "北京邮电大学",
+      "major": "应用物理学",
       "academic_degree": "本科"
+    }
+    {
+      "edu_time": [
+        "2019.09.01",
+        "2026.06.30"
+      ],
+      "school": "南京大学",
+      "major": "光学",
+      "academic_degree": "博士-量子光学与量子信息"
     }
   ],
   "awardList": [
     {
       "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_time": "2017"
     },
     {
       "award_info": "蚂蚁近卫军 卓越个人奖",
@@ -104,7 +122,7 @@
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 蚂蚁集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"
+    "aboutme_desc": "南京大学光学博士，主要研究量子光学与量子信息，有坚实的量子力学理论基础和丰富的光学实验经验。在量子光源设计、制备与表征，量子增强的精密测量与传感等领域取得了优秀的成果，并在铌酸锂薄膜重要片上光子器件研究等项目中发挥了重要作用。\n主要研究: 1. 高性能量子光源的设计、制备和表征测试。2.量子精密测量与传感。\n主要技能: 1. 有坚实的光学、量子力学与其他物理学理论基础。2. 熟练使用各类模拟仿真软件和数值计算软件。3. 有丰富的光学实验经验，能独立完成大型光路搭建和测试，排查解决各类光学实验问题。"
   },
   "theme": {
     "color": "#2f5785",
