@@ -6,7 +6,7 @@
     "skillList": "个人技能",
     "awardList": "更多信息",
     "workList": "个人作品",
-    "aboutme": "个人评价"
+    "aboutme": "自我介绍"
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
@@ -50,6 +50,10 @@
     }
   ],
   "awardList": [
+    {
+      "award_info": "英语 CET4",
+      "award_time": "2016"
+    },
     {
       "award_info": "英语 CET6",
       "award_time": "2017"
